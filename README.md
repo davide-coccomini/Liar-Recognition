@@ -1,4 +1,4 @@
-# Recognize liers
+# Recognize liars
 Machine Learning allow us to recognize the behavior of a person trying to understand if he/she is lying. This simple Python program 
 try to do this based on some characteristics identified by psychologists about the people who lie.
 
